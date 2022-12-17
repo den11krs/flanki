@@ -1,0 +1,28 @@
+import 'package:flanki/domain/deck.dart';
+
+final List<Deck> mocks = [
+  Deck('English', 1, 16, 40),
+  Deck('Español ', 20, 14, 200),
+  Deck('Português', 89, 42, 3),
+  Deck('Deutsch', 0, 38, 11),
+  Deck('Turkish', 0, 0, 0),
+  Deck('Arabic', 44, 0, 446),
+  Deck('English', 1, 16, 40),
+  Deck('Español ', 20, 14, 200),
+  Deck('Português', 89, 42, 3),
+  Deck('Deutsch', 0, 38, 11),
+  Deck('Turkish', 0, 0, 0),
+  Deck('Arabic', 44, 0, 446),
+  Deck('English', 1, 16, 40),
+  Deck('Español ', 20, 14, 200),
+  Deck('Português', 89, 42, 3),
+  Deck('Deutsch', 0, 38, 11),
+  Deck('Turkish', 0, 0, 0),
+  Deck('Arabic', 44, 0, 446),
+  Deck('English', 1, 16, 40),
+  Deck('Español ', 20, 14, 200),
+  Deck('Português', 89, 42, 3),
+  Deck('Deutsch', 0, 38, 11),
+  Deck('Turkish', 0, 0, 0),
+  Deck('Arabic', 44, 0, 446),
+];
